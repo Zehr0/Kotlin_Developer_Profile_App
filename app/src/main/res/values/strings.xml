@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlin Developer Profile App</string>
+    <string name="full_name">Hilary Agbonkhese</string>
+    <string name="dev_title">Mobile App Developer</string>
+    <string name="email">Hilahiko@gmail.com</string>
+    <string name="phone">+234 810 706 5165</string>
+    <string name="githubLink">\@github.com/Zehr0</string>
+</resources>
